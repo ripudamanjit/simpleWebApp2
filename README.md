@@ -26,7 +26,4 @@ This is a beginner-level practice project built by following the Spring Boot and
 | Tools        | Maven / Gradle, Postman   |
 | IDE          | IntelliJ IDEA / Eclipse   |
 
----
-
-## 📁 Project Structure
 
